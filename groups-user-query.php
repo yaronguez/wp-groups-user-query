@@ -7,7 +7,7 @@
 *
 * @wordpress-plugin
 * Plugin Name:       Groups User Query
-* Plugin URI:        https://github.com/yaronguez/groups-user-query
+* Plugin URI:        https://github.com/yaronguez/wp-groups-user-query
 * Description:       Extends WP_User_Query to allow filtering by Group IDs using the Groups plugin
 * Version:           1.0.0
 * Author:            Yaron Guez
@@ -16,7 +16,7 @@
 * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
 * Text Domain:       groupsuserquery
 * Domain Path:       /languages
-* Github Plugin URI: https://github.com/yaronguez/groups-user-query
+* Github Plugin URI: https://github.com/yaronguez/wp-groups-user-query
 * Github Branch: master
 */
 
